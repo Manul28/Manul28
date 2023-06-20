@@ -17,7 +17,9 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=manul28&theme=dark&show_icons=tru" alt="manul28" /></p>
 <!-- ![github contribution grid snake animation](https://raw.githubusercontent.com/viraj-s15/viraj-s15/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only) -->
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=manul28&" alt="manul28" /></p>
-![github contribution grid snake animation](https://raw.githubusercontent.com/viraj-s15/viraj-s15/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=manul28&" alt="manul28" />
+  ![github contribution grid snake animation](https://raw.githubusercontent.com/viraj-s15/viraj-s15/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+</p>
+
 
 
