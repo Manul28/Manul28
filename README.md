@@ -8,7 +8,7 @@
 - 💻 I enjoy working with **Python,Django,Flask. I am well familiarised with Machine Learning Algorithm**
 - 💬 Talk to me about cricket, carrom, films and pretty much anything else.
 - 👯 We can connect to play some games like CS-GO,AmongUS, Stumble Guys and Racing games.
-- <a href="https://violet-ariela-25.tiiny.site/">Resume</a>
+- <a href="https://amethyst-zonnya-64.tiiny.site/">Resume</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
