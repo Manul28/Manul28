@@ -18,7 +18,6 @@
 <!-- ![github contribution grid snake animation](https://raw.githubusercontent.com/viraj-s15/viraj-s15/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only) -->
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=manul28&" alt="manul28" /></p>
 
- ![github contribution grid snake animation](https://raw.githubusercontent.com/viraj-s15/viraj-s15/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
 
 
 
