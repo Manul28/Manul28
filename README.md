@@ -12,12 +12,12 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/manul-rastogi-889852223/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/manul-rastogi-889852223/" height="30" width="40" /></a>
-<a href="https://kaggle.com/https://www.kaggle.com/manulrastogi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/manulrastogi" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/https://www.codechef.com/users/manul_2002" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="https://www.codechef.com/users/manul_2002" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/https://www.kaggle.com/manulrastogi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.kaggle.com/manulrastogi" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/https://codeforces.com/profile/u83m" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="https://codeforces.com/profile/u83m" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/manulrastogi887/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/manulrastogi887/" height="30" width="40" /></a>
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://www.facebook.com/manul.rastogi.1"><img src="https://user-images.githubusercontent.com/74038190/235294010-ec412ef5-e3da-4efa-b1d4-0ab4d4638755.gif" width="100"></a>
+<a href="https://www.linkedin.com/in/manul-rastogi-889852223/"><img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="100"></a>
+<a href="https://www.instagram.com/manulrastogi/"><img src="https://user-images.githubusercontent.com/74038190/235294013-a33e5c43-a01c-43f6-b44d-a406d8b4ab75.gif" width="100"></a>
+</p>
 </p>
 
 
