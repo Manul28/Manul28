@@ -27,13 +27,10 @@
 </a> 
 </p>
 
-
-<!--<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=manul28&theme=dark&show_icons=tru" alt="manul28" /></p>-->
-<p>&nbsp;<img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=manul28&show_icons=true&locale=en" alt="manul28" /></p>
-<!-- ![github contribution grid snake animation](https://raw.githubusercontent.com/viraj-s15/viraj-s15/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only) -->
-<p><img align="left" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=manul28&show_icons=true&locale=en&layout=compact" alt="manul28" /></p>
-<!--<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=adit26data&bg_color=1e1e2e&text_color=cdd6f4" alt="adit26data" /></p>-->
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=manul28&" alt="manul28" /></p>
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=manul28&theme=default&hide_border=false&include_all_commits=false&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=manul28&theme=default&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=manul28&theme=default&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
 
 
