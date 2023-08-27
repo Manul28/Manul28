@@ -10,8 +10,7 @@
 - 👯 We can connect to play some games like CS-GO,AmongUS, Stumble Guys and Racing games.
 - <a href="https://amethyst-zonnya-64.tiiny.site/">Resume</a>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.facebook.com/manul.rastogi.1"><img src="https://user-images.githubusercontent.com/74038190/235294010-ec412ef5-e3da-4efa-b1d4-0ab4d4638755.gif" width="100"></a>
