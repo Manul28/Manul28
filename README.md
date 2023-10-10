@@ -8,8 +8,23 @@
 - 💻 I enjoy working with **Python,Django,Flask. I am well familiarised with Machine Learning Algorithm**
 - 💬 Talk to me about cricket, carrom, films and pretty much anything else.
 - 👯 We can connect to play some games like CS-GO,AmongUS, Stumble Guys and Racing games.
-- <a href="https://amethyst-zonnya-64.tiiny.site/">Resume</a>
+- 👔Interned as technical trainee at INMAS-DRDO and built a foundational prototype model for long distance file transfer and inventory management system GUI desktop app using tkinter, sqlite3 and a plethora of python libraries.
+- ☁Also diving into cloud and learning for AWS Cloud Practitioner and Google Cloud Digital Leader Exams.
+- <a href="https://gray-phyllys-22.tiiny.site/">Resume</a>
 
+### Badges
+#### AWS Badges
+<p>
+<img alt="AWS-Certified-Cloud-Practitioner" src="https://images.credly.com/size/680x680/images/73e4a58b-a8ef-41a3-a7db-9183dd269882/image.png" width="150px"/>
+</p>
+
+#### Cloud Digital Leader Badges
+<p>
+<img alt="Google CDL" src="https://cdn.qwiklabs.com/8e%2BkAIqvOauBq2p2%2Fmu%2F0Als3nSv%2B9nl7VGC873FIkQ%3D" width="150px"/> 
+<img alt="Google CDL" src="https://cdn.qwiklabs.com/4PKyOWdv7mWo%2FKM2XFCE1UwMLpWR35w7MszVzjcQnPU%3D" width="150px"/>
+<img alt="Google CDL" src="https://cdn.qwiklabs.com/S9KWMHq5muzmzc%2Fwk%2Blonu6giR8MR0HbkG0CosB2Ygg%3D" width="150px"/>
+<img alt="Google CDL" src="https://cdn.qwiklabs.com/%2BfckvVbPJ%2BOFpCS%2FlDhi%2BpthydzT%2FejEe0tK2ectXTE%3D" width="150px"/>
+</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -26,11 +41,13 @@
 </a> 
 </p>
 
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=manul28&theme=default&hide_border=false&include_all_commits=false&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=manul28&theme=default&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=manul28&theme=default&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
+# Hacktoberfest 2023 Board
 [![An image of @Manul's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/manul28)](https://www.holopin.io/@manul28#)
 
 
