@@ -10,7 +10,7 @@
 - 👯 We can connect to play some games like CS-GO,AmongUS, Stumble Guys and Racing games.
 - 👔Interned as technical trainee at INMAS-DRDO and built a foundational prototype model for long distance file transfer and inventory management system GUI desktop app using tkinter, sqlite3 and a plethora of python libraries.
 - ☁Also diving into cloud and learning for AWS Cloud Practitioner and Google Cloud Digital Leader Exams.
-- <a href="(https://gray-phyllys-22.tiiny.site/)">Resume</a>
+- <a href="(https://manulresume887.tiiny.site/)">Resume</a>
 
 ### Badges
 #### AWS Badges
