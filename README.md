@@ -8,7 +8,7 @@
 - 💻 I enjoy working with **Python,Django,Flask. I am well familiarised with Machine Learning Algorithm and Data Science**
 - 💬 Talk to me about cricket, carrom, films and pretty much anything else.
 - 👯 We can connect to play some games like CS-GO,AmongUS, Stumble Guys and Racing games.
-- 👔Interned as technical trainee at INMAS-DRDO and built a foundational prototype model for long distance file transfer and inventory management system GUI desktop app using tkinter, sqlite3 and a plethora of python libraries.
+- 👔Interned as Software Intern at INMAS-DRDO and built a foundational prototype model for long distance file transfer and inventory management system GUI desktop app using tkinter, sqlite3 and a plethora of python libraries.
 - ☁Also diving into cloud and learning for AWS Cloud Practitioner and Google Cloud Digital Leader Exams.
 
 
