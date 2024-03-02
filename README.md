@@ -1,8 +1,11 @@
 <h1 align="center">Hi 👋, I'm Manul Rastogi</h1>
 <h3 align="center">Aspiring Machine Learning</h3>
-<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/c1dcb74cc1c1835b1d716f5051499a2814c683c806b15f04b0eba492863703e9/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
 
-### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45" /> About Me:
+<p align="center">
+  <img width="500" height="250" src="https://raw.githubusercontent.com/mart-anthony-stark/Machine-Learning-and-Deep-Learning/main/banner.webp">
+</p>
+
+ <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45" /> About Me:
 - 🏦 I'm a computer science student enrolled at VIT,Vellore and I am passionate about learning new technologies.
     <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 - 💻 I enjoy working with **Python,Django,Flask. I am well familiarised with Machine Learning Algorithm and Data Science**
