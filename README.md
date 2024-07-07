@@ -54,7 +54,6 @@
 # 📊 GitHub Stats:
 [![Manul28's GitHub | Stats](https://stats.quira.sh/Manul28/github?theme=dark)](https://quira.sh?utm_source=widgets&utm_campaign=Manul28) 
 
-
 # Hacktoberfest 2023 Board
 [![An image of @Manul's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/manul28)](https://www.holopin.io/@manul28#)
 
