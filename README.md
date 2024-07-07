@@ -2,11 +2,9 @@
 <h1 align="center">Hi 👋, I'm Manul Rastogi</h1>
 <h3 align="center">Passionate About Machine Learning & Data Science</h3>
 
-<p align="center">
-  <img width="500" height="250" src="https://www.joberty.com/blog/content/images/2023/09/github-repositories.png">
-</p>
+<img align="right" alt="Coding" width="500" src="https://www.joberty.com/blog/content/images/2023/09/github-repositories.png?height=399&width=711&fit=bounds">
 
- <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45" /> About Me:
+### 👨🏻‍💻 About Me :
 - 🏦 I'm a computer science student enrolled at VIT,Vellore and I am passionate about learning new technologies.
     <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 - 💻 I enjoy working with **Python,Django,Flask. I am well familiarised with Machine Learning Algorithm and Data Science**
