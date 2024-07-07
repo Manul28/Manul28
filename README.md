@@ -1,5 +1,6 @@
+![MasterHead](https://media.licdn.com/dms/image/C4D12AQESj72-s5gEKg/article-cover_image-shrink_720_1280/0/1626753867110?e=2147483647&v=beta&t=JOALVxWjySgR37iCdRMhNGmpCyYYDXlPdWk212JXdII)
 <h1 align="center">Hi 👋, I'm Manul Rastogi</h1>
-<h3 align="center">Aspiring Machine Learning</h3>
+<h3 align="center">Passionate About Machine Learning & Data Science</h3>
 
 <p align="center">
   <img width="500" height="250" src="https://www.joberty.com/blog/content/images/2023/09/github-repositories.png">
