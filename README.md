@@ -13,7 +13,12 @@
 - 👯 We can connect to play some games like CS-GO,AmongUS, Stumble Guys and Racing games.
 - 👔Interned as Software Intern at INMAS-DRDO and built a foundational prototype model for long distance file transfer and inventory management system GUI desktop app using tkinter, sqlite3 and a plethora of python libraries.
 - ☁Also diving into cloud and learning for AWS Cloud Practitioner and Google Cloud Digital Leader Exams.
-
+## Coding Profile:
+<span>
+<a href="https://leetcode.com/manul_rastogi/">
+<img height="316" src="https://leetcard.jacoblin.cool/manul_rastogi?theme=dark&font=Ubuntu&cache=14400&ext=contest&sheets=https://gist.githubusercontent.com/Risshab_Singla/5e715e284c89cace8f5fa09f7fb930b8/raw/ec0be570f114124b1a2156a660d67baa0ab5639d/leetcode_stats_card.css" alt="Manul Rastogi Leetcode Stats"/>
+</a>
+</span>
 
 ### Badges
 #### AWS Badges
