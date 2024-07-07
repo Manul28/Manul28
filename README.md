@@ -2,7 +2,7 @@
 <h3 align="center">Aspiring Machine Learning</h3>
 
 <p align="center">
-  <img width="500" height="250" src="https://raw.githubusercontent.com/mart-anthony-stark/Machine-Learning-and-Deep-Learning/main/banner.webp">
+  <img width="500" height="250" src="https://www.joberty.com/blog/content/images/2023/09/github-repositories.png">
 </p>
 
  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45" /> About Me:
